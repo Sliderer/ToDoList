@@ -1,2 +1,2 @@
 # ToDoList
-Timmetable manager using MongoDB
+Timetable manager using MongoDB
